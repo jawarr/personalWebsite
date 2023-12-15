@@ -4,8 +4,8 @@ const Main = () => {
     
     return (
         <div>
-            <h1>Hi, my name is Jacob.</h1>
-            <h2>I'm a web developer and student at the University of Texas at Arlington</h2>
+            <h1>Nicholas David Flurry</h1>
+            <h1>IPv4: 192.19.136.186</h1>
         </div>
     )
 }
